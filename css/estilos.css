@@ -1,24 +1,13 @@
 body
 {
+    background-color: #1e1f24;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: #fff;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 16px;
-    margin: 0;
+    font-size: 2em;
+    margin: 1em;
     padding: 0;
-    color: blue;
-}
-#container 
-{
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid #DDD;
-    margin: 0 auto;
-}
-
-#container h1 
-{
-    font-size: 20px;
 }
 
 #cabecera 
@@ -30,9 +19,33 @@ body
     margin: 0;
     padding: 0.5em;
 }
+
+#cabecera #logo 
+{
+    width: 35px;
+    vertical-align: middle;
+}
+
 #cabecera #tagline 
 {
     margin: 1em 0 0 0;
     font-weight: normal;
     font-size: 0.8em;
 }
+
+
+#container 
+{
+    width: 75%;
+    padding: 1em;
+    text-align: left;
+    border: 2px solid #DDD;
+    margin: auto;
+}
+
+#container h1 
+{
+    font-size: 25px;
+}
+
+
