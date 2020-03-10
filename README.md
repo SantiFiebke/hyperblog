@@ -1,4 +1,4 @@
-#HYPERBLOG 
+#HYPERBLOG👨‍💻 
 Un blog increíble para el curso de  [Git y GitHub](https://platzi.com/cursos/git-github/) de [Platzi](https://platzi.com/).
 
 > El curso de Git y GitHub nos prepara para los requerimientos de las industrias a nivel mundial, con esto podremos avanzar en nuestra carrera profesional y ampliar nuestros horizontes.
